@@ -1,1 +1,1 @@
-# Toy_02_firebase
+# Study_02_chromeApp
